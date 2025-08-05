@@ -1,0 +1,26 @@
+Kinetic Sculpture “Nr. 13 Spatial Study”
+
+This project is a kinetic sculpture inspired by the works of Nicolas Schöffer, the pioneer of cybernetic art. The sculpture explores the interaction between movement, perception, and technology by integrating mechanical motion controlled by servomotors.
+🎨 Concept
+
+The sculpture follows Schöffer’s philosophy of merging art with cybernetic principles, creating an autonomous system that reacts dynamically to its environment. It challenges the traditional role of artistic authority and emphasizes trust in the creative process.
+🛠️ Materials and Techniques
+
+    Materials: metal structures, servomotors, Arduino microcontroller, wiring, power supply
+
+    Techniques: kinetic assembly, motion programming, and structural design for dynamic stability
+
+⚙️ Functionality
+
+The motion is driven by servomotors controlled via an Arduino-based program, which defines movement patterns and behaviors. The code used for motor control is included in the project files.
+✅ Conclusion
+
+The project combines art and technology, echoing Schöffer’s vision of cybernetic art. The result is a sculpture that interacts with its surroundings through movement, embodying both artistic and mechanical expression.
+🙏 Acknowledgements
+
+Thanks to the mentors, collaborators, and the legacy of Nicolas Schöffer for inspiring this work.
+📚 References
+
+    Nicolas Schöffer – Cybernetic Art
+
+    Norbert Wiener – Cybernetics: Control and Communication in the Animal and the Machine
