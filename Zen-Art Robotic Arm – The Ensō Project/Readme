@@ -1,0 +1,55 @@
+Zen-Art Robotic Arm – The Ensō Project
+
+This project explores the intersection between technology and Zen philosophy through the creation of a robotic arm that embodies the spirit of the ensō – a Zen circle representing harmony, impermanence, and the interconnectedness of all things.
+🧘 Concept
+
+At first glance, electronics and philosophy may seem unrelated. Yet, under the Zen view, everything is interrelated; nothing exists with an independent essence. A robotic arm, therefore, is not just a mechanical tool but an extension of the artist and, by extension, of everything.
+
+In Zen, distinctions like “artist”, “brush”, “canvas”, or “robot” dissolve into a unified process. The less ego intervenes, the more harmoniously everything flows. This project uses the robotic arm not as a mere machine, but as a manifestation of this interconnected dance.
+
+    "Whoever tries to order ends up disordering."
+    — Xhuang Zi
+
+🎨 Inspiration
+
+The project draws inspiration from:
+
+    Zen Philosophy: The concept of emptiness (śūnyatā) and the ensō circle as a symbol of imperfection and wholeness.
+
+    Taoist Wisdom: The interplay of opposites, the harmony in spontaneity.
+
+    Contemporary Art: Works like Can't Help Myself by Sun Yuan and Peng Yu, which reveal the emotional depth behind technology.
+
+
+🛠️ Implementation
+
+    Hardware: Custom-built robotic arm (inspired by UR3)
+
+    Programming: Motion sequences coded to draw the Zen ensō
+
+    Philosophy: The design aims to blur the boundaries between machine and creator, inanimate and animate, technology and art.
+
+🌀 The Ensō Gesture
+
+The drawing of the ensō by the robot represents:
+
+    Elegance in imperfection – each circle is unique, spontaneous, and unrepeatable.
+
+    Transience – a fleeting gesture that reflects the impermanence of all forms.
+
+    Unity – dissolving the false separations between human, machine, and nature.
+
+🌱 Conclusion
+
+Through this project, technology becomes a tool not just for control, but for transcendence. The robotic arm ceases to be “cold” and becomes a participant in the universal flow, expressing beauty in motion.
+🙏 Acknowledgements
+
+Thanks to:
+
+    Edu, for teaching me how to program the UR3 robotic arm.
+
+    IES Politécnico Jesús Marín, for providing access to advanced robotics.
+
+    The Zen and Taoist teachings that continue to inspire this work.
+
+✨ Metal and earth share more than we think. Through this small gesture, the robot and the artist remind us that everything is part of everything else.
